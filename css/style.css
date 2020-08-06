@@ -82,7 +82,7 @@ header .navbar ul li a{
 }
 .home{
 	min-height: 100vh;
-    background-image:url("/Images/road.jpg");
+    background-image:url(".../Images/road.jpg");
 	background-size: cover;
 	background-position: center; 
 }
